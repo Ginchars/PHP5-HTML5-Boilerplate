@@ -1,61 +1,36 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# [PHP5 HTML5 Boilerplate](http://rajibmp.github.com/PHP5-HTML5-Boilerplate/)
 
-HTML5 Boilerplate is a professional front-end template for building fast,
-robust, and adaptable web apps or sites.
+PHP5 HTML5 Boilerplate is a PHP support added to the original HTML5 Boilerplate project for Rapid application development.
 
-This project is the product of many years of iterative development and combined
-community knowledge. It does not impose a specific development philosophy or
-framework, so you're free to architect your code in the way that you want.
+To read about original HTML5 Boilerplate visit [Original Readme here](https://github.com/h5bp/html5-boilerplate).
 
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
+This project is created for personal use at first, I just wanted to add HTML5 and Bootstrap for my project development, so, what could be the better way to integrate PHP and HTML5 then this ???  
+
+My aim is to have a working skeleton for developing PHP projects easily which also have features to support latest  web technologies and Mobile, Handheld devices.
+
+* Source: [https://github.com/rajibmp/PHP5-HTML5-Boilerplate](https://github.com/rajibmp/PHP5-HTML5-Boilerplate)
+* Homepage: [http://rajibmp.github.com/PHP5-HTML5-Boilerplate](http://rajibmp.github.com/PHP5-HTML5-Boilerplate)
 
 
 ## Quick start
 
-Choose one of the following options:
-
-1. Download the latest stable release from
-   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
-   [Initializr](http://www.initializr.com).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
-   release you'd like to use.
+Clone the repo  
+Put it in your working folder  
+Connect it via web server eg: http://localhost/PHP5-HTML5-Boilerplate/
 
 
 ## Features
 
-* HTML5 ready. Use the new elements with confidence.
-* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
-* Designed with progressive enhancement in mind.
-* Includes [Normalize.css](http://necolas.github.com/normalize.css/) for CSS
-  normalizations and common bug fixes.
-* The latest [jQuery](http://jquery.com/) via CDN, with a local fallback.
-* The latest [Modernizr](http://modernizr.com/) build for feature detection.
-* IE-specific classes for easier cross-browser control.
-* Placeholder CSS Media Queries.
-* Useful CSS helpers.
-* Default print CSS, performance optimized.
-* Protection against any stray `console.log` causing JavaScript errors in
-  IE6/7.
-* An optimized Google Analytics snippet.
-* Apache server caching, compression, and other configuration defaults for
-  Grade-A performance.
-* Cross-domain Ajax and Flash.
-* "Delete-key friendly." Easy to strip out parts you don't need.
-* Extensive inline and accompanying documentation.
+* Read the main HTML5 Boilerplate feature in [here](https://github.com/h5bp/html5-boilerplate)
+* PHP5 support
 
 
 ## Documentation
 
-Take a look at the [documentation table of contents](doc/TOC.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
-want to write about your project.
+Coming soon
 
 
 ## Contributing
 
 Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
-developers have helped make the HTML5 Boilerplate what it is today.
+developers have helped make the HTML5 Boilerplate what it is today and I expect few numbers from there to jump the ship here too, to make PHP5 HTML5 Boilerplate more interesting..

@@ -1,2 +1,6 @@
-# Include your project-specific ignores in this file
-# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+# Ignore Eclipse Project Files
+.settings/
+.project
+.buildpath
+
+# It is good practice to ignore system settings file for security reasons
