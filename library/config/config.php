@@ -33,8 +33,8 @@ define('Environment', 'development');
  * @since: 0.1
  * Making database connection parameters as constants
 */
-define('HOST',			'localhost'); // host name
-define('DRIVER',		'mysql'); // pdo driver
-define('USER',			'root'); // database username
-define('PASSWORD',	''); // database password
-define('DATABASE',	'boilerplate'); // database name
+define('HOST',      'localhost'); // host name
+define('DRIVER',	  'mysql'); // pdo driver
+define('USER',      'root'); // database username
+define('PASSWORD',  ''); // database password
+define('DATABASE',  'boilerplate'); // database name
